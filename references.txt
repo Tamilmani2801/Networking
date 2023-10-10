@@ -1,3 +1,5 @@
 https://www.submarinecablemap.com/submarine-cable/asia-america-gateway-aag-cable-system
 https://www.nslookup.io/domains/www.zoho.com/webservers/
 https://whois.domaintools.com/
+https://medium.com/@gabriellamedas/the-http-server-explained-c41380307917
+https://web.dev/howbrowserswork/
